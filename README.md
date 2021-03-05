@@ -8,15 +8,15 @@ It is essentially the AWS architecture icons assets package cleaned out so that 
 
 **Services:**
 
-![AWS architecture icons](icons-services.png)
+![AWS architecture icons](img/icons-services.png)
 
 **Resources:**
 
-![AWS architecture icons](icons-resources.png)
+![AWS architecture icons](img/icons-resources.png)
 
 **Categories:**
 
-![AWS architecture icons](icons-categories.png)
+![AWS architecture icons](img/icons-categories.png)
 
 ## Versions
 
