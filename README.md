@@ -10,15 +10,15 @@ The content is generated from the AWS architecture icons assets package with the
 
 ## Icons
 
-**Services:**
+**[Services](Asset-Package_20210131/Architecture-Service-Icons_01-31-2021):**
 
 ![AWS architecture icons](img/icons-services.png)
 
-**Resources:**
+**[Resources](Asset-Package_20210131/Resource-Icons_01-31-2021):**
 
 ![AWS architecture icons](img/icons-resources.png)
 
-**Categories:**
+**[Categories](Asset-Package_20210131/Category-Icons_01-31-2021):**
 
 ![AWS architecture icons](img/icons-categories.png)
 
