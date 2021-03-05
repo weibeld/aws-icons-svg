@@ -1,10 +1,14 @@
 # AWS Architecture Icons
 
-This repository contains all the AWS architecture icons from the official [AWS architecture icon assets package](https://aws.amazon.com/architecture/icons/) in SVG format.
+AWS architecture icons in SVG format.
 
-It is essentially the AWS architecture icons assets package cleaned out so that only the SVG versions of the icons remain.
+## Description
 
-## icons
+This repository contains the SVG versions of all the icons from the official [AWS architecture icon assets package](https://aws.amazon.com/architecture/icons/).
+
+The content is generated from the AWS architecture icons assets package with the `build.sh` script.
+
+## Icons
 
 **Services:**
 
