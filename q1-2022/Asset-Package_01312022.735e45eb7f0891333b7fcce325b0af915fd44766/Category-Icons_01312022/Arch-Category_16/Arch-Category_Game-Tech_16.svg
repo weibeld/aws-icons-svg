@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon-Architecture-Category/16/Game-Tech_16</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#4D27A8" offset="0%"></stop>
+            <stop stop-color="#A166FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icon-Architecture-Category/16/Game-Tech_16" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="4" y="4" width="24" height="24"></rect>
+        <rect id="#879196-Border-Copy-12" stroke="#879196" stroke-width="2" x="1" y="1" width="30" height="30"></rect>
+        <g id="Icon-Category/16/Game-Tech_16" transform="translate(8.000000, 8.000000)" fill="#FFFFFF">
+            <path d="M15,6.5 C15,4.903 14.566,3 12.5,3 C11.525,3 11.021,3.467 10.757,4.612 C10.704,4.839 10.502,5 10.27,5 L5.73,5 C5.498,5 5.296,4.839 5.243,4.612 C4.979,3.467 4.475,3 3.5,3 C1.434,3 1,4.903 1,6.5 L1,11.75 C1.004,11.956 1.08,13.019 2.143,13.019 C3.336,13.019 4.704,10.09 5.362,8.683 L5.548,8.286 C5.631,8.111 5.807,8.009 6,8.009 L10,8.009 C10.193,8.009 10.369,8.111 10.452,8.286 L10.638,8.683 C11.296,10.09 12.664,13.019 13.857,13.019 C14.956,13.019 14.999,11.876 15,11.746 L15,6.5 Z M16,6.5 L16,11.75 C15.992,12.538 15.535,14.019 13.857,14.019 C12.028,14.019 10.646,11.062 9.732,9.106 L9.683,9 L6.317,9 L6.268,9.106 C5.354,11.062 3.972,14.019 2.143,14.019 C0.465,14.019 0.008,12.538 0,11.755 L0,6.5 C0,3.64 1.275,2 3.5,2 C4.815,2 5.693,2.672 6.112,4 L9.888,4 C10.307,2.672 11.185,2 12.5,2 C14.725,2 16,3.64 16,6.5 L16,6.5 Z M11,7.009 L14,7.009 L14,6.009 L11,6.009 L11,7.009 Z M4,6.009 L5,6.009 L5,7 L4,7 L4,8 L3,8 L3,7.009 L2,7.009 L2,6.009 L3,6.009 L3,5.009 L4,5.009 L4,6.009 Z" id="Gaem-Tech_Category-Icon_16_Squid--"></path>
+        </g>
+    </g>
+</svg>
