@@ -16,15 +16,17 @@ EOF
 
 URL=$1
 ZIP=$(basename "$URL")
-ZIP_NOEXT=${ZIP%.zip}
 DIR=$(basename $(dirname "$URL"))
 
+# Download and unzip asset package
 mkdir "$DIR"
 wget -q -P "$DIR" "$URL"
-unzip -q -d "$DIR/$ZIP_NOEXT" "$DIR/$ZIP"
+unzip -q -d "$DIR" "$DIR/$ZIP"
 rm "$DIR/$ZIP"
+rm -rf "$DIR/__MACOSX"
 
-rm -rf "$DIR/$ZIP_NOEXT/__MACOSX"
+# Store base name of ZIP file (containing the exact version) in version file
+echo "${ZIP%.zip}" >>"$DIR/version"
 
 # Delete all PNG files
-find "$DIR/$ZIP_NOEXT -name '*.png' -delete
+find "$DIR" -name '*.png' -delete
